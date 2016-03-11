@@ -1,0 +1,19 @@
+{
+  "name": "scraper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "cheerio": "~0.19.0",
+    "express": "~4.13.3",
+    "feed-read": "0.0.1",
+    "orientjs": "~2.1.0",
+    "request": "~2.65.0",
+    "underscore": "^1.8.3"
+  }
+}
